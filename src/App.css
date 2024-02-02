@@ -1,0 +1,34 @@
+
+.Square {
+  background: white;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.poster {
+  height: 200px;
+  border-radius: 5px;
+}
+
+form {
+  margin: auto;
+}
+
+.table {
+  margin: auto;
+}
+
+table {
+  border: 2px solid rgb(51, 48, 48);
+  border-radius: 5px;
+}
+
+td {
+  font-size: xx-large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
